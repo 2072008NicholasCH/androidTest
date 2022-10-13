@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">T04_2072008</string>
+    <string name="text_email">NRP (e.g 7201801)</string>
+    <string name="text_password">User Password</string>
+    <string name="btn_userLogin">Login</string>
+    <string name="msg_success">Login Successful</string>
+    <string name="msg_failed">Unknown NRP or Password</string>
+    <string name="msg_err_empty_email">Please fill NRP field properly</string>
+    <string name="msg_err_empty_pass">Please fill password field properly</string>
+</resources>
